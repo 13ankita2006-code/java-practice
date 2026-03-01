@@ -19,7 +19,7 @@ public class AutomorphicNumber{
 
 public class AutomorphicNumber{
     public static void main(String[] args){
-        int n=25;
+        int n=10;
         long sq= (long)n*n;
         int temp=n;
         boolean match=true;
@@ -38,7 +38,7 @@ public class AutomorphicNumber{
 
 public class AutomorphicNumber{
     public static void main(String[] args){
-        int n=25;
+        int n=225;
         long sq= (long)n*n;
         int temp=n;
         boolean match=true;
